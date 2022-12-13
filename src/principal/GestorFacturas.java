@@ -12,7 +12,7 @@ public class GestorFacturas {
 	public void run() throws ParseException {
 		Scanner scan = new Scanner(System.in);
 
-		//crear la factura
+		//crear la facturaaa
 		Factura factura = new Factura();
 
 		//pedir datos de facatura
